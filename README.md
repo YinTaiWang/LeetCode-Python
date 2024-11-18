@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YinTaiWang/LeetCode-Python/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/YinTaiWang/LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/YinTaiWang/LeetCode-Python/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/YinTaiWang/LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YinTaiWang/LeetCode-Python/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/YinTaiWang/LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/YinTaiWang/LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YinTaiWang/LeetCode-Python/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
